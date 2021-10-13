@@ -1,0 +1,1 @@
+web: gunicorn training_rest_api.wsgi --log-file-
